@@ -1,6 +1,7 @@
 # flutter_complete_guide
 
 A new Flutter project.
+Check Out the lib folder for the main code.
 
 ## Getting Started
 
