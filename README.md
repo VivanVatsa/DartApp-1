@@ -1,4 +1,4 @@
-# flutter_complete_guide
+# Flutter Sample Project #1
 
 A new Flutter project.
 Check Out the lib folder for the main code.
