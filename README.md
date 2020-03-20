@@ -6,6 +6,6 @@ Check Out the lib folder for the main code.
 ## Getting Started
 
 This project is a starting point for my Flutter journey.
-Want to learn more about flutter.
+Want to collab for more projects for flutter.
 
 Drop a Request on my email.
